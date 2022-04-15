@@ -2,4 +2,4 @@ These are the network configuration for the new server
 #password authentication No
 #publickey authentication Yes
 #Fingerprint_data verification Yes
-
+#users must use vpn_tunn for access main repo@git 
